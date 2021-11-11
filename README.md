@@ -1,4 +1,4 @@
-# IEFI
+# IEFI Asignatura: Ética y Deontología Profesional
 A continuacion adjuntamos los prints de pantalla correspondientes a los errores de accesibilidad que posee la pagina. Son un total de 24 errores correspondientes a:
 2 X Falta texto alternativo
 1 X Título de página faltante o poco informativo
@@ -21,5 +21,5 @@ Por últimos, tenemos alertas que corresponden a:
 
 ![alerts](https://user-images.githubusercontent.com/91998263/141223202-ab18e2e1-80a6-4687-9bf4-47feb65aa98f.png)
 
-Asignatura: Ética y Deontología Profesional
+
 
